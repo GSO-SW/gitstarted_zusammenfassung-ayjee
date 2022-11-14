@@ -31,3 +31,6 @@ methoden aus  mutterklassen müssen überschrieben werden
 Bedeutet z.B. das eine Liste objekte mehrerer Klassen verwalten kann
 
 - Wie überschreibt man die Methode `virtual string ToString()`?
+
+mit: Override string ToString(){}; 
+
