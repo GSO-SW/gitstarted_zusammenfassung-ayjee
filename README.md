@@ -9,8 +9,39 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 
 ## TODO
 - Begriffe definieren und erklären (z.B. repository, branch etc.)
+
+
+
+
+
+
 - git Befehle für die Arbeit mit lokalen Repositories (inkl. Erläuterungen)
+
+git config --global user.name  (Namen angeben)  
+git config --global user.email  (email angeben)
+git init (erstellt die Responsry)
+git add (fügt datei hinzu)
+git commit -m "n" (Fügt änderungen in ein neue 
+git Branch
+git log
+git status
+git merge
+git cherry pick 
+git rebase 
+git checkout 
+git clone 
+git push 
+git fetch 
+git pull
+
+
+
+
 - git Befehle für die Arbeit mit entfernten Repositories (inkl. Erläuterungen)
+
+
+
+
 
 ## TODO2
 - Fachbegriffe OOP erklären (mit Beispielen)
