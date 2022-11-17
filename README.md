@@ -18,20 +18,35 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 - git Befehle für die Arbeit mit lokalen Repositories (inkl. Erläuterungen)
 
 git config --global user.name  (Namen angeben)  
+
 git config --global user.email  (email angeben)
+
 git init (erstellt die Responsry)
-git add (fügt datei hinzu)
-git commit -m "n" (Fügt änderungen in ein neue 
-git Branch
-git log
-git status
-git merge
-git cherry pick 
+
+git add (fügt eine datei hinzu)
+
+git commit -m "Titel" (erfasst ein Dateistand und speichert diesen )
+
+git Branch 
+
+git log (Zeigt alle commits des Projektsverlauf) 
+
+git status (gibt den Status des Arbeitsverzeichnisses zurück)
+
+git merge (Setzt zwei oder mehrere commits zusammen)
+
+git cherry pick (
+
 git rebase 
+
 git checkout 
+
 git clone 
+
 git push 
+
 git fetch 
+
 git pull
 
 
