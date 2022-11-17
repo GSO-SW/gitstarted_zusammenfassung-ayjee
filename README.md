@@ -52,6 +52,10 @@ git pull (Holt veränderte dateien auf den Lokalen Ordner + Mergt diese )
 
 
 
+
+
+
+
 - git Befehle für die Arbeit mit entfernten Repositories (inkl. Erläuterungen)
 
    Es gibt drei Befehle :
