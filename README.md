@@ -10,6 +10,18 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 ## TODO
 - Begriffe definieren und erklären (z.B. repository, branch etc.)
 
+Repository: In ein Repository bzw. einem Repo befinden sich alle Dateien inklusive derer vorangegangenen Versionen. 
+
+ 
+Branch: Beim Einsatz von Git dienen Branches (engl.: to branch - sich verzweigen) dazu, um einen separaten Arbeitszweig zu erstellen.
+
+Commit: Der Befehl “git commit” wird verwendet um den Status eines Projekts zu erfassen. 
+
+Merge: Der Befehl “git merge” wird verwendet um Änderungen aus verschiedenen  branches zusammenzuführen.
+
+
+
+Push: Der Befehl “git push” wird verwendet um lokale Änderungen an ein entferntes (remote) Repository zu senden. 
 
 
 
