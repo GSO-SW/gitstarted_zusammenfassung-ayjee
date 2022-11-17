@@ -27,7 +27,7 @@ git add (fügt eine datei hinzu)
 
 git commit -m "Titel" (erfasst ein Dateistand und speichert diesen )
 
-git Branch (
+git Branch (Ein Unabhängiger Entwicklungszweig )
 
 git log (Zeigt alle commits des Projektsverlauf) 
 
@@ -35,19 +35,19 @@ git status (gibt den Status des Arbeitsverzeichnisses zurück)
 
 git merge (Setzt zwei oder mehrere commits zusammen)
 
-git cherry pick (
+git cherry pick (eizelne commits einer Referenz auswählen und bei Head anhängen )
 
-git rebase 
+git rebase (Verschieben ofer Kombinieren einer Squenz von Commits zu einem Basis Commit ) 
 
-git checkout 
+git checkout ( Das Wechseln zwischen Branches oder auf ältere Commits zugreiffen)
 
-git clone 
+git clone (Kopiert vom Webserver die Git datei auf den Lokalen Ordner )
 
-git push 
+git push (Schiebt bearbeitete oder hinzugefügte dateien auf den Webserver wo nun jeder den neusten Stand sieht)
 
-git fetch 
+git fetch (Holt veränderte dateien auf den Lokalen Ordner)
 
-git pull
+git pull (Holt veränderte dateien auf den Lokalen Ordner + Mergt diese )
 
 
 
