@@ -21,7 +21,7 @@ git config --global user.name  (Namen angeben)
 
 git config --global user.email  (email angeben)
 
-git init (erstellt die Responsry)
+git init (erstellt die Repository)
 
 git add (fügt eine datei hinzu)
 
