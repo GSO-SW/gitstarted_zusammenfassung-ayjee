@@ -27,7 +27,7 @@ git add (fügt eine datei hinzu)
 
 git commit -m "Titel" (erfasst ein Dateistand und speichert diesen )
 
-git Branch 
+git Branch (
 
 git log (Zeigt alle commits des Projektsverlauf) 
 
@@ -54,7 +54,13 @@ git pull
 
 - git Befehle für die Arbeit mit entfernten Repositories (inkl. Erläuterungen)
 
-
+   Es gibt drei Befehle :
+   
+   git fetch 
+   
+   git merge 
+   
+   git pull 
 
 
 
